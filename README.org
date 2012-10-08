@@ -1,0 +1,11 @@
+* DONE this is my first time to commit files!
+  CLOSED: [2012-10-08 一 22:20]
+  I upload my emacs config onto git.There are 7 files including this
+README file.
+  Meanwhile,i use emacs orgmode to record modification each time!
+  The commited files are rope,.ropeproject,README.org,ruby-mode,scala-mode,vendor,yasnipet.
+
+
+
+    
+
